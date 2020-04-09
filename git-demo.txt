@@ -1,1 +1,12 @@
 Mangos
+
+
+Get project on your machine: `git clone https://www.github.com/PROJECTURL`
+
+Add your changes to project: `git add -A`
+
+Commit your changes `git commit -m "MY MESSAGE HERE"`
+
+Push your changes to github `git push`
+
+Pull someone else's changes from github `git pull`
